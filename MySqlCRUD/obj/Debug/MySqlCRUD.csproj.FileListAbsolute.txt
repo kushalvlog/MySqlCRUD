@@ -1,0 +1,14 @@
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\bin\Debug\MySqlCRUD.exe.config
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\bin\Debug\MySqlCRUD.exe
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\bin\Debug\MySqlCRUD.pdb
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\bin\Debug\MySql.Data.dll
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\bin\Debug\MySql.Data.xml
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csprojAssemblyReference.cache
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.Form1.resources
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.Properties.Resources.resources
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csproj.GenerateResource.cache
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csproj.CoreCompileInputs.cache
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.csproj.CopyComplete
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.exe
+C:\Users\vaibhav\Desktop\kushal\sql_crud_winform\MySqlCRUD\MySqlCRUD\obj\Debug\MySqlCRUD.pdb
